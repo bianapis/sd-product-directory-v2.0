@@ -1,0 +1,15 @@
+{
+  "productDirectoryEntryInstanceRecord" : {
+    "productVersion" : "productVersion",
+    "productDirectoryEntryConfiguration" : "productDirectoryEntryConfiguration"
+  },
+  "operationsUpdateActionTaskReference" : "OUATR734497",
+  "operationsUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "operationsInstanceRecord" : {
+    "productServiceConfigurationParameterDescription" : "productServiceConfigurationParameterDescription",
+    "productServiceOperatingSchedule" : "productServiceOperatingSchedule",
+    "productServiceConfigurationParameterType" : "productServiceConfigurationParameterType",
+    "productServiceConfigurationParameterSetting" : "productServiceConfigurationParameterSetting"
+  }
+}

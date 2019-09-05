@@ -1,0 +1,11 @@
+{
+  "servicingInstanceRecord" : {
+    "productServiceFeatureProblemDiagnosis" : "productServiceFeatureProblemDiagnosis",
+    "productServiceFeatureGuideline" : "productServiceFeatureGuideline",
+    "productServiceFeature" : "productServiceFeature",
+    "productServiceFeatureProblemResolution" : "productServiceFeatureProblemResolution"
+  },
+  "servicingUpdateActionTaskReference" : "SUATR777950",
+  "servicingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

@@ -1,0 +1,26 @@
+{
+  "productDirectoryEntryInstanceRecord" : {
+    "productVersion" : "productVersion",
+    "productDirectoryEntryConfiguration" : "productDirectoryEntryConfiguration"
+  },
+  "productionRetrieveActionTaskReference" : "PRATR751960",
+  "productionRetrieveActionResponse" : "productionRetrieveActionResponse",
+  "productionRetrieveActionTaskRecord" : {},
+  "productionInstanceReport" : {
+    "productionInstanceReportRecord" : {},
+    "productionInstanceReportType" : "productionInstanceReportType",
+    "productionInstanceReport" : {},
+    "productionInstanceReportParameters" : "productionInstanceReportParameters"
+  },
+  "productionInstanceRecord" : {
+    "productServiceLocationAvailability" : "productServiceLocationAvailability",
+    "productServiceTimeAvailability" : "productServiceTimeAvailability",
+    "productServiceAccessAvailability" : "productServiceAccessAvailability"
+  },
+  "productionInstanceAnalysis" : {
+    "productionInstanceAnalysisParameters" : "productionInstanceAnalysisParameters",
+    "productionInstanceAnalysisReport" : {},
+    "productionInstanceAnalysisRecord" : {},
+    "productionInstanceAnalysisReportType" : "productionInstanceAnalysisReportType"
+  }
+}

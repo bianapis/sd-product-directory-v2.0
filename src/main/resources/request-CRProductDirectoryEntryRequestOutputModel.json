@@ -1,0 +1,10 @@
+{
+  "productDirectoryEntryRequestActionTaskReference" : "PDERATR780092",
+  "productDirectoryEntryInstanceRecord" : {
+    "productVersion" : "productVersion",
+    "productDirectoryEntryConfiguration" : "productDirectoryEntryConfiguration"
+  },
+  "requestRecordReference" : "RRR764007",
+  "productDirectoryEntryRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

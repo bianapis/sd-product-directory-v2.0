@@ -1,0 +1,15 @@
+{
+  "salesandMarketingUpdateActionTaskReference" : "SAMUATR705580",
+  "salesandMarketingInstanceRecord" : {
+    "productServicesFeaturesAndOptions" : "productServicesFeaturesAndOptions",
+    "productServicePricingTable" : "productServicePricingTable",
+    "productServiceEligibilityType" : "productServiceEligibilityType",
+    "productServiceSalesMaterial" : "productServiceSalesMaterial",
+    "productServiceFeesPenaltiesTable" : "productServiceFeesPenaltiesTable",
+    "productServiceOfferProcessingRequirements" : "productServiceOfferProcessingRequirements",
+    "productSuitabilityGuide" : "productSuitabilityGuide",
+    "productServiceEligibilityDescription" : "productServiceEligibilityDescription"
+  },
+  "updateResponseRecord" : {},
+  "salesandMarketingUpdateActionTaskRecord" : {}
+}

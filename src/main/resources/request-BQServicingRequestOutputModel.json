@@ -1,0 +1,12 @@
+{
+  "servicingInstanceRecord" : {
+    "productServiceFeatureProblemDiagnosis" : "productServiceFeatureProblemDiagnosis",
+    "productServiceFeatureGuideline" : "productServiceFeatureGuideline",
+    "productServiceFeature" : "productServiceFeature",
+    "productServiceFeatureProblemResolution" : "productServiceFeatureProblemResolution"
+  },
+  "servicingRequestActionTaskReference" : "SRATR754368",
+  "servicingRequestRecordReference" : "SRRR744562",
+  "servicingRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

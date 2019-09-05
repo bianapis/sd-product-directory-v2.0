@@ -1,0 +1,31 @@
+{
+  "productDirectoryEntryInstanceRecord" : {
+    "productVersion" : "productVersion",
+    "productDirectoryEntryConfiguration" : "productDirectoryEntryConfiguration"
+  },
+  "salesandMarketingInstanceAnalysis" : {
+    "salesandMarketingInstanceAnalysisParameters" : "salesandMarketingInstanceAnalysisParameters",
+    "salesandMarketingInstanceAnalysisReportType" : "salesandMarketingInstanceAnalysisReportType",
+    "salesandMarketingInstanceAnalysisRecord" : {},
+    "salesandMarketingInstanceAnalysisReport" : {}
+  },
+  "salesandMarketingInstanceRecord" : {
+    "productServicesFeaturesAndOptions" : "productServicesFeaturesAndOptions",
+    "productServicePricingTable" : "productServicePricingTable",
+    "productServiceEligibilityType" : "productServiceEligibilityType",
+    "productServiceSalesMaterial" : "productServiceSalesMaterial",
+    "productServiceFeesPenaltiesTable" : "productServiceFeesPenaltiesTable",
+    "productServiceOfferProcessingRequirements" : "productServiceOfferProcessingRequirements",
+    "productSuitabilityGuide" : "productSuitabilityGuide",
+    "productServiceEligibilityDescription" : "productServiceEligibilityDescription"
+  },
+  "salesandMarketingRetrieveActionTaskRecord" : {},
+  "salesandMarketingRetrieveActionResponse" : "salesandMarketingRetrieveActionResponse",
+  "salesandMarketingRetrieveActionTaskReference" : "SAMRATR739975",
+  "salesandMarketingInstanceReport" : {
+    "salesandMarketingInstanceReportParameters" : "salesandMarketingInstanceReportParameters",
+    "salesandMarketingInstanceReportRecord" : {},
+    "salesandMarketingInstanceReportType" : "salesandMarketingInstanceReportType",
+    "salesandMarketingInstanceReport" : {}
+  }
+}

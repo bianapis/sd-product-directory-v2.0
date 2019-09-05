@@ -1,0 +1,16 @@
+{
+  "salesandMarketingInstanceRecord" : {
+    "productServicesFeaturesAndOptions" : "productServicesFeaturesAndOptions",
+    "productServicePricingTable" : "productServicePricingTable",
+    "productServiceEligibilityType" : "productServiceEligibilityType",
+    "productServiceSalesMaterial" : "productServiceSalesMaterial",
+    "productServiceFeesPenaltiesTable" : "productServiceFeesPenaltiesTable",
+    "productServiceOfferProcessingRequirements" : "productServiceOfferProcessingRequirements",
+    "productSuitabilityGuide" : "productSuitabilityGuide",
+    "productServiceEligibilityDescription" : "productServiceEligibilityDescription"
+  },
+  "salesandMarketingRequestActionTaskRecord" : {},
+  "salesandMarketingRequestActionTaskReference" : "SAMRATR783802",
+  "salesandMarketingRequestRecordReference" : "SAMRRR780593",
+  "requestResponseRecord" : {}
+}

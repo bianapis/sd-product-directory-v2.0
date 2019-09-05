@@ -1,0 +1,27 @@
+{
+  "servicingInstanceRecord" : {
+    "productServiceFeatureProblemDiagnosis" : "productServiceFeatureProblemDiagnosis",
+    "productServiceFeatureGuideline" : "productServiceFeatureGuideline",
+    "productServiceFeature" : "productServiceFeature",
+    "productServiceFeatureProblemResolution" : "productServiceFeatureProblemResolution"
+  },
+  "servicingRetrieveActionTaskReference" : "SRATR728417",
+  "productDirectoryEntryInstanceRecord" : {
+    "productVersion" : "productVersion",
+    "productDirectoryEntryConfiguration" : "productDirectoryEntryConfiguration"
+  },
+  "servicingInstanceReport" : {
+    "servicingInstanceReportParameters" : "servicingInstanceReportParameters",
+    "servicingInstanceReport" : {},
+    "servicingInstanceReportType" : "servicingInstanceReportType",
+    "servicingInstanceReportRecord" : {}
+  },
+  "servicingRetrieveActionResponse" : "servicingRetrieveActionResponse",
+  "servicingRetrieveActionTaskRecord" : {},
+  "servicingInstanceAnalysis" : {
+    "servicingInstanceAnalysisReport" : {},
+    "servicingInstanceAnalysisParameters" : "servicingInstanceAnalysisParameters",
+    "servicingInstanceAnalysisReportType" : "servicingInstanceAnalysisReportType",
+    "servicingInstanceAnalysisRecord" : {}
+  }
+}

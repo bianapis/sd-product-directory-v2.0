@@ -1,0 +1,19 @@
+{
+  "productDirectoryEntryInstanceRecord" : {
+    "productVersion" : "productVersion",
+    "productDirectoryEntryConfiguration" : "productDirectoryEntryConfiguration"
+  },
+  "productDirectoryEntryRetrieveActionTaskRecord" : {},
+  "productDirectoryEntryRetrieveActionResponse" : "productDirectoryEntryRetrieveActionResponse",
+  "productDirectoryEntryInstanceReportRecord" : {
+    "productDirectoryEntryInstanceReport" : {},
+    "productDirectoryEntryInstanceReportType" : "productDirectoryEntryInstanceReportType",
+    "productDirectoryEntryInstanceReportData" : "productDirectoryEntryInstanceReportData"
+  },
+  "productDirectoryEntryRetrieveActionTaskReference" : "PDERATR786802",
+  "productDirectoryEntryInstanceAnalysis" : {
+    "productDirectoryEntryInstanceAnalysisData" : "productDirectoryEntryInstanceAnalysisData",
+    "productDirectoryEntryInstanceAnalysisReportType" : "productDirectoryEntryInstanceAnalysisReportType",
+    "productDirectoryEntryInstanceAnalysisReport" : {}
+  }
+}

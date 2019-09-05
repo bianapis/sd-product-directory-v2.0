@@ -1,0 +1,11 @@
+{
+  "productionRequestActionTaskRecord" : {},
+  "productionRequestActionTaskReference" : "PRATR711300",
+  "productionRequestRecordReference" : "PRRR768673",
+  "productionInstanceRecord" : {
+    "productServiceLocationAvailability" : "productServiceLocationAvailability",
+    "productServiceTimeAvailability" : "productServiceTimeAvailability",
+    "productServiceAccessAvailability" : "productServiceAccessAvailability"
+  },
+  "requestResponseRecord" : {}
+}

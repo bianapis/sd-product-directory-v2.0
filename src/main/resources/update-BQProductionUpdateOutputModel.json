@@ -1,0 +1,10 @@
+{
+  "productionUpdateActionTaskReference" : "PUATR772144",
+  "productionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "productionInstanceRecord" : {
+    "productServiceLocationAvailability" : "productServiceLocationAvailability",
+    "productServiceTimeAvailability" : "productServiceTimeAvailability",
+    "productServiceAccessAvailability" : "productServiceAccessAvailability"
+  }
+}

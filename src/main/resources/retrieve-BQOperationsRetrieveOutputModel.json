@@ -1,0 +1,27 @@
+{
+  "operationsRetrieveActionTaskRecord" : {},
+  "productDirectoryEntryInstanceRecord" : {
+    "productVersion" : "productVersion",
+    "productDirectoryEntryConfiguration" : "productDirectoryEntryConfiguration"
+  },
+  "operationsInstanceReport" : {
+    "operationsInstanceReportRecord" : {},
+    "operationsInstanceReport" : {},
+    "operationsInstanceReportType" : "operationsInstanceReportType",
+    "operationsInstanceReportParameters" : "operationsInstanceReportParameters"
+  },
+  "operationsInstanceRecord" : {
+    "productServiceConfigurationParameterDescription" : "productServiceConfigurationParameterDescription",
+    "productServiceOperatingSchedule" : "productServiceOperatingSchedule",
+    "productServiceConfigurationParameterType" : "productServiceConfigurationParameterType",
+    "productServiceConfigurationParameterSetting" : "productServiceConfigurationParameterSetting"
+  },
+  "operationsInstanceAnalysis" : {
+    "operationsInstanceAnalysisRecord" : {},
+    "operationsInstanceAnalysisParameters" : "operationsInstanceAnalysisParameters",
+    "operationsInstanceAnalysisReportType" : "operationsInstanceAnalysisReportType",
+    "operationsInstanceAnalysisReport" : {}
+  },
+  "operationsRetrieveActionTaskReference" : "ORATR798105",
+  "operationsRetrieveActionResponse" : "operationsRetrieveActionResponse"
+}

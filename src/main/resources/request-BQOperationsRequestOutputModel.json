@@ -1,0 +1,16 @@
+{
+  "productDirectoryEntryInstanceRecord" : {
+    "productVersion" : "productVersion",
+    "productDirectoryEntryConfiguration" : "productDirectoryEntryConfiguration"
+  },
+  "operationsRequestActionTaskRecord" : {},
+  "operationsRequestRecordReference" : "ORRR755372",
+  "operationsInstanceRecord" : {
+    "productServiceConfigurationParameterDescription" : "productServiceConfigurationParameterDescription",
+    "productServiceOperatingSchedule" : "productServiceOperatingSchedule",
+    "productServiceConfigurationParameterType" : "productServiceConfigurationParameterType",
+    "productServiceConfigurationParameterSetting" : "productServiceConfigurationParameterSetting"
+  },
+  "operationsRequestActionTaskReference" : "ORATR748985",
+  "requestResponseRecord" : {}
+}
